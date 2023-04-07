@@ -1,0 +1,38 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "wild"
+  },
+  "slices": {
+    "__TYPE__": "SliceContentType",
+    "value": [
+      {
+        "key": "rich_text$9b417b78-e621-4c93-a9b6-fc4f5060f8a1",
+        "name": "rich_text",
+        "widget": {
+          "__TYPE__": "SharedSliceContent",
+          "variation": "default",
+          "primary": {
+            "description": {
+              "__TYPE__": "StructuredTextContent",
+              "value": [
+                {
+                  "type": "paragraph",
+                  "content": {
+                    "text": "Officia eiusmod sint eu enim. Anim anim et duis nostrud sunt nisi fugiat amet incididunt exercitation Lorem ipsum et non adipisicing."
+                  }
+                }
+              ]
+            }
+          },
+          "items": [
+            {
+              "__TYPE__": "GroupItemContent",
+              "value": []
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
